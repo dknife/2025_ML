@@ -28,5 +28,5 @@ https://github.com/dknife/ML
 
 ### 강의 노트
 
-#### [강의 0 - 머신러닝이란](https://github.com/dknife/2025_ML/blob/main/Lec/01%EC%9E%A5_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80.pdf)
+#### [강의 0 - 머신러닝이란](https://github.com/dknife/2025_ML/raw/main/Lec/01%EC%9E%A5_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80.pdf)
 
