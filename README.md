@@ -25,5 +25,3 @@ https://github.com/dknife/ML
 * (따라하며 배우는) 파이썬과 데이터 과학, 천인국, 박동규, 강영민, 생능출판사 (2020)
 
 * 으뜸 데이터 분석과 머신러닝, 박동규, 강영민, 생능출판사 (2021)
-  * 으뜸 데이터 분석과 머신러닝 github 저장소 : https://github.com/dongupak/DataML
- 
