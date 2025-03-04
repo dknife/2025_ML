@@ -30,7 +30,7 @@ https://github.com/dknife/ML
 
 #### [강의 0 - 머신러닝이란](https://github.com/dknife/2025_ML/raw/main/Lec/01%EC%9E%A5_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80.pdf)
 
-##### [구현을 위한 기초지식](https://github.com/dknife/2024MachineLearning/raw/main/LectureNotes/03%EC%9E%A5_%EA%B5%AC%ED%98%84%EC%9D%84%EC%9C%84%ED%95%9C%20%EB%8F%84%EA%B5%AC.pdf)
+##### [구현을 위한 기초지식](https://github.com/dknife/2025_ML/raw/main/Lec/03%EC%9E%A5_%EA%B5%AC%ED%98%84%EC%9D%84%EC%9C%84%ED%95%9C%20%EB%8F%84%EA%B5%AC.pdf)
 
 * [구글 코랩 연습](https://colab.research.google.com/drive/1I_4N0oOMNUjWa9pL48iCX5ypcgBy1xGm#scrollTo=aS83clRuGPss)
 
