@@ -36,9 +36,3 @@
 * 으뜸 데이터 분석과 머신러닝, 박동규, 강영민, 생능출판사 (2021)
   * 으뜸 데이터 분석과 머신러닝 github 저장소 : https://github.com/dongupak/DataML
  
-    
-<p align="center">
-  <img src="image/20BFF5E5-1B47-490E-99A4-6A76440B6F2C.png" width=200px>
-  <img src="image/BB56B4F0-484E-4B5E-8649-EA827AF9271B.jpeg" width=200px>
-  <img src="image/Prime-DataML-cover1.png" width=400px>
-</p>
