@@ -35,3 +35,7 @@ https://github.com/dknife/ML
 * [구글 코랩 연습](https://colab.research.google.com/drive/1I_4N0oOMNUjWa9pL48iCX5ypcgBy1xGm#scrollTo=aS83clRuGPss)
 * [판다스 연습](https://colab.research.google.com/drive/1iRBXjqZJxPVKLBnvQVY4nSN_bQP64RDD)
 
+#### [강의 1 - 머신러닝을 위한 기초지식]()
+
+#### [강의 2 - 구현을 위한 도구]()
+
