@@ -28,14 +28,14 @@ https://github.com/dknife/ML
 
 ### 강의 노트
 
-#### [강의 0 - 머신러닝이란](https://github.com/dknife/2025_ML/raw/main/Lec/01%EC%9E%A5_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80.pdf)
+#### [강의 1 - 머신러닝이란](https://github.com/dknife/2025_ML/raw/main/Lec/01%EC%9E%A5_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%B4%EB%9E%80.pdf)
 
 ##### [구현을 위한 기초지식](https://github.com/dknife/2025_ML/raw/main/Lec/03%EC%9E%A5_%EA%B5%AC%ED%98%84%EC%9D%84%EC%9C%84%ED%95%9C%20%EB%8F%84%EA%B5%AC.pdf)
 * 교재 3장의 내용을 먼저 살펴 보자
 * [구글 코랩 연습](https://colab.research.google.com/drive/1I_4N0oOMNUjWa9pL48iCX5ypcgBy1xGm#scrollTo=aS83clRuGPss)
 * [판다스 연습](https://colab.research.google.com/drive/1iRBXjqZJxPVKLBnvQVY4nSN_bQP64RDD)
 
-#### [강의 1 - 머신러닝을 위한 기초지식]()
+#### [강의 2 - 머신러닝을 위한 기초지식](https://github.com/dknife/2025_ML/blob/main/Lec/02%EC%9E%A5_%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%EC%9D%84%20%EC%9C%84%ED%95%9C%20%EA%B8%B0%EC%B4%88%EC%A7%80%EC%8B%9D.pdf)
 
-#### [강의 2 - 구현을 위한 도구]()
+#### [강의 3 - 구현을 위한 도구]()
 
