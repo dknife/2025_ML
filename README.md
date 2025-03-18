@@ -39,3 +39,4 @@ https://github.com/dknife/ML
 
 #### [강의 3 - 구현을 위한 도구](https://github.com/dknife/2025_ML/raw/main/Lec/03%EC%9E%A5_%EA%B5%AC%ED%98%84%EC%9D%84%EC%9C%84%ED%95%9C%20%EB%8F%84%EA%B5%AC.pdf)
 
+#### [강의 4 - 선형회귀](https://github.com/dknife/2025_ML/raw/main/Lec/04%EC%9E%A5_%EC%84%A0%ED%98%95%20%ED%9A%8C%EA%B7%80%EB%A1%9C%20%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94%20%EC%A7%80%EB%8F%84%ED%95%99%EC%8A%B5.pdf)
