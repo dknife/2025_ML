@@ -45,4 +45,6 @@ https://github.com/dknife/ML
 * [실습 2 - 데이터에 대해 가설 세워 보기](https://colab.research.google.com/drive/1eDIiD3Pc7Dh2ujP5PX9e7BUUVa_0xVz1?usp=sharing)
 
 #### 강의 4 - 선형회귀 2
-* [실습 1오차 곡면을 따라 좋은 파라미터 찾기](https://colab.research.google.com/drive/1p8JkOnhzB8rxaRoSeyJBJwVdPKQwmzpr?usp=sharing)
+* [실습 1 오차 곡면을 따라 좋은 파라미터 찾기](https://colab.research.google.com/drive/1p8JkOnhzB8rxaRoSeyJBJwVdPKQwmzpr?usp=sharing)
+
+* [실습 ２사이킷런을 이용한 선형회귀](https://colab.research.google.com/drive/1NQF-ZG26E7ZfEF9MCfrBcRJKmsYxMDVp?usp=sharing）
