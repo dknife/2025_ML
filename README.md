@@ -47,4 +47,6 @@ https://github.com/dknife/ML
 #### 강의 4 - 선형회귀 2
 * [실습 1 오차 곡면을 따라 좋은 파라미터 찾기](https://colab.research.google.com/drive/1p8JkOnhzB8rxaRoSeyJBJwVdPKQwmzpr?usp=sharing)
 
-* [실습 ２사이킷런을 이용한 선형회귀](https://colab.research.google.com/drive/1NQF-ZG26E7ZfEF9MCfrBcRJKmsYxMDVp?usp=sharing）
+* [실습 ２사이킷런을 이용한 선형회귀]((https://colab.research.google.com/drive/1NQF-ZG26E7ZfEF9MCfrBcRJKmsYxMDVp?usp=sharing)
+
+#### 강의 5 - 선형회귀 종합 실습
