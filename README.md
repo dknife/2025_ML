@@ -63,3 +63,5 @@ https://github.com/dknife/ML
 #### 강의 5 - 선형회귀 종합 실습
 
 * [강의노트](https://github.com/dknife/2025_ML/raw/main/Lec/04%EC%9E%A5_%EC%84%A0%ED%98%95%ED%9A%8C%EA%B7%80_%EC%A2%85%ED%95%A9%EC%8B%A4%EC%8A%B5.pdf)
+
+* [선형회귀 종합실습](https://colab.research.google.com/drive/16Tb56ZGuaw26R-B1HXFcsa6NuhhU_N0-?usp=sharing)
