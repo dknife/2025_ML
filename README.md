@@ -71,3 +71,8 @@ https://github.com/dknife/ML
 * [강의노트](https://github.com/dknife/2025_ML/raw/main/Lec/05%EC%9E%A5_%EB%B6%84%EB%A5%98%EC%99%80%20%EA%B5%B0%EC%A7%91%ED%99%94%EB%A1%9C%20%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94%20%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5%EA%B3%BC%20%EB%B9%84%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5.pdf)
 
 * [실습 분류(Classification)와 군집화(clustering)](https://colab.research.google.com/drive/1KSL8dkeySBju8TDnPkQNUo30oc7I9DYV?usp=sharing)
+
+#### 강의 7 - 다양한 머신러닝 기법들 소개
+
+* [강의노트]()
+
