@@ -70,9 +70,10 @@ https://github.com/dknife/ML
 
 * [강의노트](https://github.com/dknife/2025_ML/raw/main/Lec/05%EC%9E%A5_%EB%B6%84%EB%A5%98%EC%99%80%20%EA%B5%B0%EC%A7%91%ED%99%94%EB%A1%9C%20%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94%20%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5%EA%B3%BC%20%EB%B9%84%EC%A7%80%EB%8F%84%20%ED%95%99%EC%8A%B5.pdf)
 
-* [실습 분류(Classification)와 군집화(clustering)](https://colab.research.google.com/drive/1KSL8dkeySBju8TDnPkQNUo30oc7I9DYV?usp=sharing)
+* [실습: 분류(Classification)와 군집화(clustering)](https://colab.research.google.com/drive/1KSL8dkeySBju8TDnPkQNUo30oc7I9DYV?usp=sharing)
 
 #### 강의 7 - 다양한 머신러닝 기법들 소개
 
 * [강의노트](https://github.com/dknife/2025_ML/raw/main/Lec/06%EC%9E%A5_%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B2%95%EB%93%A4%20-%20%EB%8B%A4%ED%95%AD%20%ED%9A%8C%EA%B7%80%2C%20%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC%2C%20SVM.pdf)
 
+* [실습: 다양한 머신러닝 연습]
