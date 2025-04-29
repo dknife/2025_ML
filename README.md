@@ -77,3 +77,7 @@ https://github.com/dknife/ML
 * [강의노트](https://github.com/dknife/2025_ML/raw/main/Lec/06%EC%9E%A5_%EB%8B%A4%EC%96%91%ED%95%9C%20%EB%A8%B8%EC%8B%A0%EB%9F%AC%EB%8B%9D%20%EA%B8%B0%EB%B2%95%EB%93%A4%20-%20%EB%8B%A4%ED%95%AD%20%ED%9A%8C%EA%B7%80%2C%20%EA%B2%B0%EC%A0%95%20%ED%8A%B8%EB%A6%AC%2C%20SVM.pdf)
 
 * [실습: 다양한 머신러닝 연습](https://colab.research.google.com/drive/1HXHCs301K7Fmjoz-N4Ehfz6Nf0elC2k3?usp=sharing)
+
+#### 중간고사 풀이
+
+[중간고사 정답](https://colab.research.google.com/drive/1b__ZJIt-lIImWWYeFV6IFana-Xgn_xxD?usp=sharing)
