@@ -2,6 +2,11 @@
 
 [수업전체](https://github.com/dknife/dknife.github.io/wiki/Lecture_Homepage)
 
+## 과제 1
+
+- 경사하강법을 이용하여 강의 8의 마지막 실습으로 다룬 XOR 퍼셉트론을 학습시키는 방법을 구현해 보라.
+- w = w - l * dE/dW
+  
 ## 2025 1학기 머신러닝 기초 실습 홈페이지
 
 강의 교재: 으뜸 머신러닝, 생능출판사
