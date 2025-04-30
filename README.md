@@ -81,3 +81,9 @@ https://github.com/dknife/ML
 #### 중간고사 풀이
 
 [중간고사 정답](https://colab.research.google.com/drive/1b__ZJIt-lIImWWYeFV6IFana-Xgn_xxD?usp=sharing)
+
+#### 강의 8 - 인공신경망 기초 - 퍼셉트론과 문제점
+
+* [강의노트]()
+
+* [실습: 퍼셉트론의 구현과 학습]()
