@@ -95,4 +95,4 @@ https://github.com/dknife/ML
 
 
 #### 강의 9 - 인공신경망 기초 - 입력다항화를 통한 선형 분리 한계 극복과 경사하강법을 푸는 벡터/행렬 연산 모델
-* [강의노트](https://github.com/dknife/2025_ML/raw/main/Lec/07%E1%84%8C%E1%85%A1%E1%86%BC_%E1%84%8B%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A9%E1%86%BC%20%E1%84%89%E1%85%B5%E1%86%AB%E1%84%80%E1%85%A7%E1%86%BC%E1%84%86%E1%85%A1%E1%86%BC%20%E1%84%80%E1%85%B5%E1%84%8E%E1%85%A9%20-%20Part2%20%E1%84%83%E1%85%A1%E1%84%8E%E1%85%B3%E1%86%BC%E1%84%91%E1%85%A5%E1%84%89%E1%85%A6%E1%86%B8%E1%84%90%E1%85%B3%E1%84%85%E1%85%A9%E1%86%AB%E1%84%8B%E1%85%B4%20%E1%84%92%E1%85%A1%E1%86%A8%E1%84%89%E1%85%B3%E1%86%B8.pdf)
+* [강의노트](https://github.com/dknife/2025_ML/raw/main/Lec/07%EC%9E%A5_%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EA%B8%B0%EC%B4%88%20-%20Part2%20%EB%8B%A4%EC%B8%B5%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0%EC%9D%98%20%ED%95%99%EC%8A%B5.pdf)
