@@ -91,9 +91,10 @@ https://github.com/dknife/ML
 
 * [강의노트](https://github.com/dknife/2025_ML/raw/main/Lec/07%EC%9E%A5_%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EA%B8%B0%EC%B4%88%20-%20Part1%20%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0%EA%B3%BC%20%EB%AC%B8%EC%A0%9C.pdf)
 
-* [실습: 경사하강 기법의 다항퍼셉트론](https://colab.research.google.com/drive/1p2pvjiEZSQfIQGG6OPur8s2XFmmcR2hC?usp=sharing)
 * [실습: 퍼셉트론의 구현과 학습](https://colab.research.google.com/drive/1CakzEE77Hzg6Gcy9NIvXhwURaHqzugsu?usp=sharing)
 
 
 #### 강의 9 - 인공신경망 기초 - 입력다항화를 통한 선형 분리 한계 극복과 경사하강법을 푸는 벡터/행렬 연산 모델
 * [강의노트](https://github.com/dknife/2025_ML/raw/main/Lec/07%EC%9E%A5_%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EA%B8%B0%EC%B4%88%20-%20Part2%20%EB%8B%A4%EC%B8%B5%ED%8D%BC%EC%85%89%ED%8A%B8%EB%A1%A0%EC%9D%98%20%ED%95%99%EC%8A%B5.pdf)
+
+* [실습: 경사하강 기법의 다항퍼셉트론](https://colab.research.google.com/drive/1p2pvjiEZSQfIQGG6OPur8s2XFmmcR2hC?usp=sharing)
