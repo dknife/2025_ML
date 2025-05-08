@@ -102,3 +102,6 @@ https://github.com/dknife/ML
 * [실습 1: 경사하강 기법의 다항퍼셉트론](https://colab.research.google.com/drive/1p2pvjiEZSQfIQGG6OPur8s2XFmmcR2hC?usp=sharing)
 
 * [실습 2: 행렬곱으로 다루는 다항퍼셉트론](https://colab.research.google.com/drive/18JJRz4GdPAbeL9fQm5uG41h2nSvEHmZq?usp=sharing)
+
+#### 강의 10 - 다층 퍼셉트론과 오류 역전파
+* [강의노트]()
