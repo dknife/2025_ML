@@ -108,4 +108,4 @@ https://github.com/dknife/ML
 
 * [실습 1: 다층 퍼셉트론을 이용한 XOR 해결](https://colab.research.google.com/drive/1obkHsk7IZ71FRdEeuRn6ONoBcJaCvUZG?usp=sharing)
 
-* [실습 2: 다층 퍼셉트론을 이용한 비선형 회귀]()
+* [실습 2: 다층 퍼셉트론을 이용한 비선형 회귀](https://colab.research.google.com/drive/1oTanmJQ-Vw-jzhykwGPq-JAVDVUmSuzD?usp=sharing)
