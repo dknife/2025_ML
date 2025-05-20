@@ -109,3 +109,8 @@ https://github.com/dknife/ML
 * [실습 1: 다층 퍼셉트론을 이용한 XOR 해결](https://colab.research.google.com/drive/1obkHsk7IZ71FRdEeuRn6ONoBcJaCvUZG?usp=sharing)
 
 * [실습 2: 다층 퍼셉트론을 이용한 비선형 회귀](https://colab.research.google.com/drive/1oTanmJQ-Vw-jzhykwGPq-JAVDVUmSuzD?usp=sharing)
+
+
+#### 강의 11 - 더 나은 인공신경망을 만들기 위한 노력 (문제와 해법)
+
+* [강의노트] ()
