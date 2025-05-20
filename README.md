@@ -113,4 +113,4 @@ https://github.com/dknife/ML
 
 #### 강의 11 - 더 나은 인공신경망을 만들기 위한 노력 (문제와 해법)
 
-* [강의노트] ()
+* [강의노트] (https://github.com/dknife/2025_ML/raw/main/Lec/08%EC%9E%A5_%EA%B3%A0%EA%B8%89%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EA%B5%AC%ED%98%84.pdf)
