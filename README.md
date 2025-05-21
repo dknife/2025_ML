@@ -116,3 +116,5 @@ https://github.com/dknife/ML
 * [강의노트](https://github.com/dknife/2025_ML/raw/main/Lec/08%EC%9E%A5_%EA%B3%A0%EA%B8%89%20%EC%9D%B8%EA%B3%B5%20%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EA%B5%AC%ED%98%84.pdf)
 
 * [실습 1 - 텐서플로우로 다층 퍼셉트론 구현](https://colab.research.google.com/drive/1SjCuZ3VMVjgOU28KIaAumwnF68YR2U1_)
+
+* [실습 2 - MNIST를 이용한 필기체 인식 구현](https://colab.research.google.com/drive/1XGH73RZMYtAEZRxR5IF2lYurKhaZDfLT?usp=sharing)
