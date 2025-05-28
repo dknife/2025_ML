@@ -121,8 +121,8 @@ https://github.com/dknife/ML
 
 #### 강의 12 - 합성곱 신경망
 
-* [강의노트](https://github.com/dknife/2025_ML/raw/main/Lec/09%EC%9E%A5_%EC%8B%A0%EA%B2%BD%EB%A7%9D%20%EB%B6%80%ED%9D%A5%EC%9D%98%20%EC%8B%9C%EC%9E%91%2C%20%ED%95%A9%EC%84%B1%EA%B3%B1%20%EC%8B%A0%EA%B2%BD%EB%A7%9D.pdf)
-
+* [강의노트](https://github.com/dknife/2025_ML/raw/main/Lec/09%EC%9E%A5_%ED%95%A9%EC%84%B1%EA%B3%B1%EC%8B%A0%EA%B2%BD%EB%A7%9D_%EC%88%98%EC%A0%95.pdf)
+  
 * [실습 1 Fashioin MNIST](https://colab.research.google.com/drive/1i8Qy4ZPr2bwMzveGZr29nv7-6tifu7qt?usp=sharing)
 
 * [실습 2 CNN](https://colab.research.google.com/drive/1If2X9viS_tB5DPAYOrgqiZ3N_yfW_z2l?usp=sharing)
