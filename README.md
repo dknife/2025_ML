@@ -132,3 +132,5 @@ https://github.com/dknife/ML
 #### 기말고사
 
 [기말고사 기초 코드](https://colab.research.google.com/drive/1JuJtz3o1VdrOWRnXAeLbXcRr0XkzV2C6)
+
+파일을 직접 보고 싶으면 https://github.com/dknife/2025_ML/tree/main/final
