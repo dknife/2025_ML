@@ -129,5 +129,6 @@ https://github.com/dknife/ML
 
 * [실습 3 전이학습](https://colab.research.google.com/drive/1RTa8n9yX0wQxtO4DiAdRbcF6M4hvmQuW?usp=sharing)
 
+#### 기말고사
 
 [기말고사 기초 코드](https://colab.research.google.com/drive/1JuJtz3o1VdrOWRnXAeLbXcRr0XkzV2C6)
